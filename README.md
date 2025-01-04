@@ -38,5 +38,19 @@ This app is designed with user experience in mind, ensuring that navigation is b
 
 At the **mid-section of the page titled "WIDE RANGE OF VEHICLES"**, users will find clickable arrows on the cars that allow them to easily move back to the top of the page. This feature provides a convenient way to navigate without the need for excessive scrolling, enhancing the overall user experience and making navigation more fluid and intuitive.
 
+## Installation
+
+To run the website locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/AdikaNathaniel/car_rentals.git
+    ```
+
+2. Open the project folder in your preferred text editor (e.g., VSCode).
+
+3. Open the `index.html` file in your browser to view the website.
+
 ## Want To Try The App Out?
 Check It Out Here : https://car-rentals-37dyg5wuc-adikanathaniels-projects.vercel.app
